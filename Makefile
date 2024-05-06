@@ -8,6 +8,7 @@ post-install:
 	src/git.sh
 	src/locale.sh
 	src/reflector.sh
+	src/starship.sh
 	src/sxhkd.sh
 	src/tlp.sh
 	src/xdg-user-dirs.sh
