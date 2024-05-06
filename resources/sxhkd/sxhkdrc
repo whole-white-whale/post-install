@@ -1,0 +1,14 @@
+super + Escape
+  pkill -USR1 -x sxhkd
+
+Print
+  maim "$HOME/Pictures/$(date +%Y-%m-%d-%H-%M-%S).png"
+
+XF86AudioMute
+  wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle
+
+XF86Audio{Lower,Raise}Volume
+  wpctl set-volume @DEFAULT_AUDIO_SINK@ {10%-,10%+}
+
+XF86MonBrightness{Down,Up}
+  brightnessctl set {10%-,+10%}
