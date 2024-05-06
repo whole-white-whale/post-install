@@ -6,6 +6,7 @@ post-install:
 	src/bspwm.sh
 	src/firefox.sh
 	src/git.sh
+	src/gvfs.sh
 	src/locale.sh
 	src/neovim.sh
 	src/polybar.sh
