@@ -13,3 +13,4 @@ post-install:
 	src/sxhkd.sh
 	src/tlp.sh
 	src/xdg-user-dirs.sh
+	src/zathura.sh
