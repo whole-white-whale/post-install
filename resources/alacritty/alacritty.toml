@@ -1,0 +1,19 @@
+import = [
+  "~/.config/alacritty/catppuccin-mocha.toml"
+]
+
+[font]
+size = 12
+
+[font.normal]
+family = "Iosevka NFM"
+
+[mouse]
+hide_when_typing = true
+
+[window]
+opacity = 0.75
+
+[window.padding]
+x = 4
+y = 4
