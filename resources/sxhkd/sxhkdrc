@@ -4,6 +4,9 @@ super + Escape
 super + Return
   alacritty
 
+super + w
+  firefox
+
 super + {_,ctrl + ,shift + }c
   bspc node {-c,-p cancel,-k}
 
