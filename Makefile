@@ -10,6 +10,7 @@ post-install:
 	src/neovim.sh
 	src/polybar.sh
 	src/reflector.sh
+	src/rofi.sh
 	src/starship.sh
 	src/sxhkd.sh
 	src/tlp.sh

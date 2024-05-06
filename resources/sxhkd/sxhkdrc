@@ -7,6 +7,9 @@ super + Return
 super + w
   firefox
 
+super + d
+  rofi -show drun
+
 super + {_,ctrl + ,shift + }c
   bspc node {-c,-p cancel,-k}
 
