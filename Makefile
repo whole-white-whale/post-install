@@ -5,4 +5,5 @@ post-install:
 	src/bspwm.sh
 	src/firefox.sh
 	src/git.sh
+	src/reflector.sh
 	src/sxhkd.sh
