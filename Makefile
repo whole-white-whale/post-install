@@ -7,4 +7,5 @@ post-install:
 	src/git.sh
 	src/reflector.sh
 	src/sxhkd.sh
+	src/tlp.sh
 	src/xdg-user-dirs.sh
