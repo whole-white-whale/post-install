@@ -8,6 +8,7 @@ post-install:
 	src/git.sh
 	src/locale.sh
 	src/neovim.sh
+	src/polybar.sh
 	src/reflector.sh
 	src/starship.sh
 	src/sxhkd.sh

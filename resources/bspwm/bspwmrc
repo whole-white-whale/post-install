@@ -10,5 +10,8 @@ bspc config  normal_border_color "#6c7086"
 
 hsetroot -cover "$HOME/Pictures/Wallpaper"
 
+polybar-msg cmd quit
+polybar top &
+
 pgrep -x picom > "/dev/null" || picom &
 pgrep -x sxhkd > "/dev/null" || sxhkd &
