@@ -15,6 +15,7 @@ post-install:
 	src/rofi.sh
 	src/starship.sh
 	src/sxhkd.sh
+	src/telegram-desktop.sh
 	src/tlp.sh
 	src/xdg-user-dirs.sh
 	src/zathura.sh
