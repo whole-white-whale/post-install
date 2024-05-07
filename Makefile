@@ -17,5 +17,6 @@ post-install:
 	src/sxhkd.sh
 	src/telegram-desktop.sh
 	src/tlp.sh
+	src/viewnior.sh
 	src/xdg-user-dirs.sh
 	src/zathura.sh
