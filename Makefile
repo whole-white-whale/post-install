@@ -7,6 +7,7 @@ post-install:
 	src/eza.sh
 	src/firefox.sh
 	src/git.sh
+	src/gtk.sh
 	src/gvfs.sh
 	src/locale.sh
 	src/neovim.sh
