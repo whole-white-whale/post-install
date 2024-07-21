@@ -9,6 +9,7 @@ post-install:
 	src/git.sh
 	src/gtk.sh
 	src/gvfs.sh
+	src/lightdm.sh
 	src/locale.sh
 	src/neovim.sh
 	src/polybar.sh
